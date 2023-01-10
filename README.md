@@ -15,7 +15,7 @@ This webpage was created to present an online portfolio based on the acquired sk
 
 ![ScreenShot](./assets/Final-Project.png)
 
-To use this challenge weboage, open Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel will appear showing the HTML and CSS code that is now correct and efficient.
+https://izbeloro.github.io/samorozco-portfolio/
 
 
 ## Credits
